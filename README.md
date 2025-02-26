@@ -1,4 +1,4 @@
-# Maeve Kelly - Cybersecurity Portfolio
+# Maeve Kelly - Portfolio
 
 This is a portfolio website created for CS5356 Homework 3.
 
